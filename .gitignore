@@ -1,0 +1,6 @@
+*.bak
+db/
+log/
+config/config
+config/influxdb.conf
+colorDB/.colorDB.lock
